@@ -1,1 +1,3 @@
 # odin-recipes
+This is a recipe site where you can find several recipes for my favourite foods. It is not very broad and aesthetic since this is my very first html project.
+This first odin html project helps me put in practice everything i have learnt so far. This includes: how to use the virtual machine, how to use the cli, how to use git, and last but not least, how to use several tags in html, like <h1>, <p>, <img>, <a> etc.
