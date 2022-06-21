@@ -31,12 +31,16 @@ img {
     margin-left: auto;
     margin-right: auto;
     display: block;
-    width: 60%;
+    width: 500px;
     height: auto;
     transition: 200ms;
 }
 
 img:hover{
-    width: 63%;
+    width: 550px;
     transition: 200ms;
+}
+
+.padding {
+    padding: 20px;
 }
