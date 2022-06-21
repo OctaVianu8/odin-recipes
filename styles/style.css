@@ -15,9 +15,8 @@ p, li {
 }
 
 .food, .chef {
-    /* width: 670px;
-    height: auto; */
-    align-self: center;
+    border: 20px;
+    border-color: black;
 }
 
 a {
@@ -34,4 +33,10 @@ img {
     display: block;
     width: 60%;
     height: auto;
+    transition: 200ms;
+}
+
+img:hover{
+    width: 63%;
+    transition: 200ms;
 }
